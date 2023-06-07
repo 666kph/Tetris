@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import messagebox
 from random import choice, randrange
 from copy import deepcopy
-фвлв import time
+import time
 import pygame
 
 
